@@ -1,5 +1,5 @@
-# React-Fetch-GitHub-API
-## Fetching Git Hub API data using React Fetch
+# Fetching Git Hub API data using React Fetch
+
 
 # Technologies Used
 1. ReactJS
